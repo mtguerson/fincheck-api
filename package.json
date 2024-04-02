@@ -5,6 +5,8 @@
   "author": "",
   "private": true,
   "license": "UNLICENSED",
+  "files.eol": "\n",
+
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
